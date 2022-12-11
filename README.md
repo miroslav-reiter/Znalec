@@ -44,16 +44,16 @@
 5. Bitovú kópiu pripájať len v read-only móde
 
 ### 🧮 Analýza Dát
-a) Konfiguračné súbory OS - Configuration Files
-b) Používatelia a používateľské skupiny - Users and Groups
-c) Súbory s heslami - Password Files
-d) Log súbory - Logs (System Events, Audit Record, Application Events, Command History, Recently Accessed Files)
-e) Aplikačné súbory - Application Files (napr. priamo spustiteľné súbory, ikony, audio súbory danej aplikácie a pod.)
-f) Dátové súbory - Data Files (napr. dokumenty z textových editorov, tabuľkových procesorov, grafické súbory, video súbory a pod.)
-g) Swap súbory - Swap Files (súbory používané OS pre rozšírenie veľkosti operačnej pamäte)
-h) Dump súbory - Dump Files (súbory používané v niektorých typoch OS k automatickému uloženiu obsahu pamäte v prípade výskytu chybového stavu)
-i) Hibernačné súbory - Hibernation Files (súbory vytvárané pre zachytenie aktuálneho stavu OS pred vypnutím počítača, typické použitie najmä pre prenosné počítače)
-j) Dočasné súbory - Temporary Files
+a) Konfiguračné súbory OS - Configuration Files  
+b) Používatelia a používateľské skupiny - Users and Groups  
+c) Súbory s heslami - Password Files  
+d) Log súbory - Logs (System Events, Audit Record, Application Events, Command History, Recently Accessed Files)  
+e) Aplikačné súbory - Application Files (napr. priamo spustiteľné súbory, ikony, audio súbory danej aplikácie a pod.)  
+f) Dátové súbory - Data Files (napr. dokumenty z textových editorov, tabuľkových procesorov, grafické súbory, video súbory a pod.)  
+g) Swap súbory - Swap Files (súbory používané OS pre rozšírenie veľkosti operačnej pamäte)  
+h) Dump súbory - Dump Files (súbory používané v niektorých typoch OS k automatickému uloženiu obsahu pamäte v prípade výskytu chybového stavu)  
+i) Hibernačné súbory - Hibernation Files (súbory vytvárané pre zachytenie aktuálneho stavu OS pred vypnutím počítača, typické použitie najmä pre prenosné počítače)  
+j) Dočasné súbory - Temporary Files  
 
 Obnova vymazaných dát alebo len výberovej skupiny dát (napr. len grafické súbory, video súbory a pod.) zo súborových systémov jednotlivých dátových nosičov (hard diskov a ďalších médií) pomocou viacerých nezávislých softvérových nástrojov (teda s použitím viacerých rôznych algoritmov) a ich následná analýza
 Po ukončení práce (analytickej fázy) na kópii obrazu, opätovne verifikovať túto pracovnú kópiu s originálnym obrazom a znovu zadokumentovať získané hodnoty hash-u.
