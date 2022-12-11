@@ -1,4 +1,4 @@
-# Znalec/Expert SW, HW, Security, Multimedia
+# ⭐ Znalec/Expert SW, HW, Security, Multimedia
 
 ## ⚖️ Zákony, Vyhlášky a Nariadenia
 [**Zákon o znalcoch**, tlmočníkoch a prekladateľoch **382/2014**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2004/382/)  
