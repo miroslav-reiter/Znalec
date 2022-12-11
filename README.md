@@ -10,7 +10,7 @@
 6. [**Zákon o ochrane osobných údajov** a o zmene a doplnení niektorých zákonov **122/2013 Z. z.**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2013/122/20140415)  
 
 7. [**Autorský zákon 185/2015 Z. z.**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2015/185/)  
-8. [Trestný Zákon č. 300/2005 a konkrétne § 347](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2005/300/)
+8. [**Trestný Zákon č. 300/2005** a konkrétne **§ 347**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2005/300/)
 
 ## 🔬 Nástroje na forenznú analýzu mobilných telefónov a inteligentných zariadení
 1. Cellebrite UFED
@@ -21,8 +21,8 @@
 ## 📴 Základný postup pri forenznej analýze
 1. Vybrať SIM kartu (nie SD/micro SD kartu)
 2. Mať nastavený letový/letecký režim, aby nedošlo k neoprávnenej manipulácii s dátami na zariadení 
-3. Povoliť vývojársky (developer) režim pri Android zariadeniach
-4. Zapnúť ladenie (Debug) USB, 
+3. Povoliť vývojársky (developer) režim pri Android zariadeniach (5-6x tap/click na Číslo zostav/code build)
+4. Zapnúť ladenie (Debug) USB 
 5. Pripojiť k PC
 6. Cez forenzný nástroj vytvoriť logickú alebo fyzickú extrakciu
 
