@@ -30,7 +30,7 @@
 
 **Fyzická metóda** pozostáva z prístupu k flash pamäti mobilného telefónu a extrakcie údajov z tohto priestoru. V tomto prípade sa **pristupuje priamo k flash pamäti**, aby sa získali existujúce údaje a zachytili sa aj vymazané údaje. Na prístup k flash pamäti nástroje **používajú bootloader** na obídenie bezpečnostnej záplaty mobilného zariadenia. Keď máme extrakciu hotovú, môžeme podľa požiadaviek zadávateľa skúmať či sa v telefóne nachádzajú dáta, ktoré by mohli nasvedčovať spáchaniu trestného činu (napr. zbrane, drogy, nahota atd.).
 
-### 🧰 Ďalšie nástroje znalca pre forenzné skúmanie PC
+## 🧰 Ďalšie nástroje znalca pre forenzné skúmanie PC
 1. Autopsy
 2. Cellebrite Inspector
 3. FTK Imager
