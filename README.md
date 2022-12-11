@@ -13,8 +13,8 @@
 8. [**Trestný Zákon č. 300/2005** a konkrétne **§ 347**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2005/300/)
 
 ## 🔬 Nástroje na forenznú analýzu mobilných telefónov a inteligentných zariadení
-1. Cellebrite UFED
-2. MOBILedit Forensic 
+1. **Cellebrite UFED**  
+2. **MOBILedit Forensic**  
 3. Magnet AXIOM
 4. Oxygen Forensic® Detective
 
@@ -32,25 +32,25 @@
 
 ## 🧰 Ďalšie nástroje znalca pre forenzné skúmanie PC
 1. Autopsy
-2. Cellebrite Inspector
-3. FTK Imager
+2. **Cellebrite Inspector**
+3. **FTK Imager**
 4. Magnet AXIOM
 5. Oxygen Forensic® Detective
 
 ## 💻 Základný postup pri forenznom skúmaní PC
-1. Aby sa zabránilo možnej zmene dát počas znaleckého skúmania na pamäťovom médiu je potrebné použiť opatrenie pre ochranu proti zápisu zo strany OS (tzv. write-blocker), buď vo forme špeciálneho softvéru alebo ako hardvérového zariadenia
-2. Akékoľvek úkony s dôkazným materiálom v súdnom konaní sa môžu vykonávať iba na jeho kópiách
-3. Vytvoriť bitovú kópiu média (HDD,SSD) tzv. obraz (image)
-4. Verifikovať vytvorený obraz a originálne médium s použitím vhodného hašovacieho (hash funkcie) algoritmu a zdokumentovanie získanej hodnoty hash-u
-5. Bitovú kópiu pripájať len v read-only móde
+1. Aby sa zabránilo možnej zmene dát počas znaleckého skúmania na pamäťovom médiu je potrebné použiť opatrenie pre ochranu proti zápisu zo strany OS **(tzv. Write-Blocker)**, buď vo forme špeciálneho softvéru alebo ako hardvérového zariadenia
+2. **Akékoľvek úkony s dôkazným materiálom v súdnom konaní sa môžu vykonávať iba na jeho kópiách**
+3. Vytvoriť **bitovú kópiu média** (HDD, SSD) tzv. **obraz (image)**
+4. Verifikovať vytvorený obraz a originálne médium s použitím vhodného **hašovacieho (hash funkcie) algoritmu** a zdokumentovanie získanej hodnoty hash-u
+5. **Bitovú kópiu** pripájať **len v read-only** móde
 
 ### 🧮 Analýza Dát
 a) Konfiguračné súbory OS - Configuration Files  
-b) Používatelia a používateľské skupiny - Users and Groups  
-c) Súbory s heslami - Password Files  
-d) Log súbory - Logs (System Events, Audit Record, Application Events, Command History, Recently Accessed Files)  
-e) Aplikačné súbory - Application Files (napr. priamo spustiteľné súbory, ikony, audio súbory danej aplikácie a pod.)  
-f) Dátové súbory - Data Files (napr. dokumenty z textových editorov, tabuľkových procesorov, grafické súbory, video súbory a pod.)  
+b) **Používatelia a používateľské skupiny** - Users and Groups  
+c) **Súbory s heslami** - Password Files  
+d) **Log súbory** - Logs (System Events, Audit Record, Application Events, Command History, Recently Accessed Files)  
+e) **Aplikačné súbory** - Application Files (napr. priamo spustiteľné súbory, ikony, audio súbory danej aplikácie a pod.)  
+f) **Dátové súbory** - Data Files (napr. dokumenty z textových editorov, tabuľkových procesorov, grafické súbory, video súbory a pod.)  
 g) Swap súbory - Swap Files (súbory používané OS pre rozšírenie veľkosti operačnej pamäte)  
 h) Dump súbory - Dump Files (súbory používané v niektorých typoch OS k automatickému uloženiu obsahu pamäte v prípade výskytu chybového stavu)  
 i) Hibernačné súbory - Hibernation Files (súbory vytvárané pre zachytenie aktuálneho stavu OS pred vypnutím počítača, typické použitie najmä pre prenosné počítače)  
