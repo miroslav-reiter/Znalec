@@ -12,7 +12,7 @@
 7. [**Autorský zákon 185/2015 Z. z.**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2015/185/)  
 8. [**Trestný Zákon č. 300/2005** a konkrétne **§ 347**](https://www.slov-lex.sk/pravne-predpisy/SK/ZZ/2005/300/)
 
-## 🔬 Nástroje na forenznú analýzu mobilných telefónov a inteligentných zariadení
+## 🔬 Nástroje na forenznú analýzu mob. telefónov a intel. zariadení
 1. **Cellebrite UFED**  
 2. **MOBILedit Forensic**  
 3. Magnet AXIOM
