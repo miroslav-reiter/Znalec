@@ -20,6 +20,8 @@
 
 Register IČO organizácií vrátane znalcov Štatistický Úrad: https://zber.statistics.sk/sk/register-organizacii?_sk_susr_isis_pub_organisations_register_portlet_OrganisationsRegisterPortlet_INSTANCE_puzm_navigationType=SEARCH_VIEW
 
+![2023-05-31 00_25_13-Register organizácií _ ŠÚ SR](https://github.com/miroslav-reiter/Znalec/assets/24510943/876a126b-3ff1-4a88-a217-0fa9c88843fe)
+
 ## Tipy
 - Upraviť si email na znalec@nieco.sk  
 - Využiť ponuku lepšieho poistenia znalca Vladimir Maxa, má lepšie zmluvné podmienky s Generali  
