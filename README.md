@@ -18,6 +18,13 @@
 3. Magnet AXIOM
 4. Oxygen Forensic® Detective
 
+Register IČO organizácií vrátane znalcov Štatistický Úrad: https://zber.statistics.sk/sk/register-organizacii?_sk_susr_isis_pub_organisations_register_portlet_OrganisationsRegisterPortlet_INSTANCE_puzm_navigationType=SEARCH_VIEW
+
+## Tipy
+- Upraviť si email na znalec@nieco.sk  
+- Využiť ponuku lepšieho poistenia znalca Vladimir Maxa, má lepšie zmluvné podmienky s Generali  
+- Doplniť si do profilu Identifikačné údaje zamestnávateľa, treba napísať pani alena.cirbusova@justice.sk  
+
 ## 📴 Základný postup pri forenznej analýze
 1. Vybrať SIM kartu (nie SD/micro SD kartu)
 2. Mať nastavený letový/letecký režim, aby nedošlo k neoprávnenej manipulácii s dátami na zariadení 
